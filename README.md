@@ -2,7 +2,7 @@ Welcome to my GitHub Profile! 👋
 
 **About Me**
 
-Hi, I’m @xShizue-Dev! I love development and learning new technologies.
+Hi, I’m xShizue, I love development and learning new technologies.
 
 **Interests and Skills**
 
