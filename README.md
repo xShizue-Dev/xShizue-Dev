@@ -1,5 +1,24 @@
-- 👋 Hi, I’m @xShizue-Dev
-- 👀 I’m interested in Developpement 
-- 🌱 I’m currently learning CS, Java, Batch 
-- 💞️ I'm looking to collaborate for an SS-Tool (a verification tool for Minecraft)
-- 📫 How to reach me : My discord : https://discord.io/ssguidefr | My Account --> xShizue#0069
+Welcome to my GitHub Profile! 👋
+
+**About Me**
+
+Hi, I’m @xShizue-Dev! I love development and learning new technologies.
+
+**Interests and Skills**
+
+- 🖥️ **Languages**: C, C++, Batch, PowerShell, Python, HTML, CSS, PHP.
+- 📚 **Currently Learning**: CS concepts, Java, Batch scripting.
+- 🛠️ **Experience**: 4 years of screensharing, 1 year of DFIR.
+- 🔍 **Interests**: Reverse engineering, Minecraft verification tools.
+- 🚀 **Projects**: Collaborating on Soltix (ScreenShare tool for Minecraft Bedrock) and SS-Tool.
+
+**Get in Touch**
+
+- 💬 **Discord**: [Join my server](https://discord.io/ssguidefr) or add me --> xShizue
+- 🌐 **More about me**: [Bio link](https://e-z.bio/xshizue) with all contact info.
+
+**Let's Collaborate!**
+
+I am open to exciting projects and community contributions. Let's create something amazing!
+
+Thank you for visiting my profile!
