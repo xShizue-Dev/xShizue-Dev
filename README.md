@@ -7,7 +7,7 @@ Hi, I’m xShizue, I love development and learning new technologies.
 **Interests and Skills**
 
 - 🖥️ **Languages**: C, C++, Batch, PowerShell, Python, HTML, CSS, PHP.
-- 📚 **Currently Learning**: CS concepts, Java, Batch scripting.
+- 📚 **Currently Learning**: CS concepts, Java.
 - 🛠️ **Experience**: 4 years of screensharing, 1 year of DFIR.
 - 🔍 **Interests**: Reverse engineering, Minecraft verification tools.
 - 🚀 **Projects**: Collaborating on Soltix (ScreenShare tool for Minecraft Bedrock) and SS-Tool.
