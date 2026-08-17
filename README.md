@@ -1,109 +1,168 @@
-# GitHub Profile README
+# README.md — xShizue
 
-<h1 align="center">Hi, I'm xShizue 👋</h1>
+<div align="center">
 
-<p align="center">
-  Developer • DFIR • Reverse Engineering • Minecraft Security
-</p>
+# 👋 Hey, I'm xShizue
 
-<p align="center">
-  I enjoy building tools, understanding how systems work under the hood,
-  and constantly learning new technologies.
-</p>
+**Developer · DFIR · Reverse Engineering · Minecraft Verification**
 
----
+<br>
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=I+build+tools+and+occasionally+break+things.;Mostly+interested+in+DFIR+%26+reverse+engineering.;Always+learning+something+new." alt="Typing SVG" />
 
-I'm **xShizue**, a developer with a strong interest in **cybersecurity, digital forensics and reverse engineering**.
-
-A large part of my experience comes from the Minecraft screensharing and verification ecosystem, where I've worked on tools and techniques used to analyze systems, investigate suspicious activity and understand software behavior.
-
-I enjoy turning ideas into actual projects, experimenting with low-level concepts and continuously improving my knowledge of software development and security.
+</div>
 
 ---
 
-## Tech Stack
+## 🧑‍💻 About me
+
+I'm **xShizue**. I spend most of my time around development, cybersecurity and system analysis.
+
+I originally got into this through the **Minecraft screensharing / verification scene**, which eventually pushed me toward DFIR, Windows artifacts, reverse engineering and lower-level development.
+
+These days, I mostly enjoy building tools, digging into how software behaves and learning whatever I need along the way.
+
+```text
+🔎  DFIR / Digital Forensics
+🧬  Reverse Engineering
+🪟  Windows internals
+⚙️  Tool development
+🎮  Minecraft verification
+```
+
+---
+
+## 🛠️ Things I use
+
+<div align="center">
 
 ### Languages
 
-`C` `C++` `Python` `Java` `PHP` `PowerShell` `Batch`
+![C](https://img.shields.io/badge/C-15171C?style=for-the-badge\&logo=c\&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-15171C?style=for-the-badge\&logo=cplusplus\&logoColor=659AD2)
+![Python](https://img.shields.io/badge/Python-15171C?style=for-the-badge\&logo=python\&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-15171C?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+![PHP](https://img.shields.io/badge/PHP-15171C?style=for-the-badge\&logo=php\&logoColor=8993BE)
 
-### Web
+### Web & scripting
 
-`HTML` `CSS`
+![HTML5](https://img.shields.io/badge/HTML5-15171C?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-15171C?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![PowerShell](https://img.shields.io/badge/PowerShell-15171C?style=for-the-badge\&logo=powershell\&logoColor=5391FE)
+![Batch](https://img.shields.io/badge/Batch-15171C?style=for-the-badge\&logo=windows-terminal\&logoColor=FFFFFF)
 
-### Currently Exploring
+### Tools
 
-`Java` `Computer Science` `Reverse Engineering` `DFIR`
+![Windows](https://img.shields.io/badge/Windows-15171C?style=for-the-badge\&logo=windows11\&logoColor=0078D4)
+![Git](https://img.shields.io/badge/Git-15171C?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-15171C?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-15171C?style=for-the-badge\&logo=visualstudio\&logoColor=9B6DFF)
 
----
-
-## Security & Technical Interests
-
-* 🔍 Reverse engineering
-* 🧬 Software analysis
-* 🔎 Digital forensics & incident response
-* 🖥️ Windows internals
-* ⚙️ Low-level development
-* 🛡️ Minecraft verification & screensharing
-* 🧪 Detection and forensic tooling
-* 🔧 Automation and utility development
-
----
-
-## Experience
-
-**4+ years** working with Minecraft screensharing and verification.
-
-**1+ year** focused specifically on **DFIR — Digital Forensics & Incident Response**.
-
-Through these areas, I've developed experience around system analysis, forensic artifacts, software behavior and the creation of tools designed to assist technical investigations.
+</div>
 
 ---
 
-## Projects
+## 🔎 What I'm into
 
-### Soltix
+A lot of what interests me sits somewhere between development and investigation.
 
-Collaborating on **Soltix**, a screensharing and verification tool designed for **Minecraft Bedrock**.
+* **DFIR** — Windows forensic artifacts, activity reconstruction and evidence correlation
+* **Reverse engineering** — understanding software behaviour and internals
+* **Windows** — system internals, processes, memory and artifacts
+* **Detection tooling** — building utilities that make investigations easier
+* **Minecraft verification** — screensharing, forensic approaches and detection research
+* **Native development** — mostly C/C++ projects and experiments
 
-### SS-Tool
-
-Contributor to **SS-Tool**, focused on providing utilities for the Minecraft screensharing ecosystem.
-
-## What I'm Working On
-
-I'm continuously experimenting with new projects involving:
-
-* forensic tooling;
-* Minecraft security;
-* reverse engineering;
-* automation;
-* native applications;
-* system analysis;
-* security-oriented development.
-
-I use GitHub both to build projects and to document my progress as I learn new concepts.
+I don't pretend to know everything in these areas. A big part of the fun is figuring things out as I go.
 
 ---
 
-## Contact
+## 📊 Experience
 
-**Discord:** `xShizue`
+<table>
+<tr>
+<td align="center" width="50%">
 
-[Join my Discord server](https://discord.io/ssguidefr)
+### 🔍 4+ years
 
-[More about me](https://e-z.bio/xshizue)
+**Minecraft Screensharing & Verification**
+
+Working around system verification, screensharing methodologies and technical investigations.
+
+</td>
+<td align="center" width="50%">
+
+### 🧪 1+ year
+
+**DFIR**
+
+More focused work around digital forensics, Windows artifacts and detection-oriented tooling.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Collaboration
+## 🚀 Some projects
 
-I'm always interested in discovering interesting technical projects, exchanging knowledge and contributing to projects related to development, cybersecurity, DFIR or reverse engineering.
+### 🔍 Soltix
 
-Feel free to reach out if you'd like to work together.
+A screensharing / verification tool for **Minecraft Bedrock** that I'm collaborating on.
 
-<p align="center">
-  <b>Thanks for visiting my profile.</b>
-</p>
+The project revolves around making technical verification easier and giving investigators useful information without turning the workflow into a mess.
+
+`Minecraft Bedrock` `Verification` `Security` `Tooling`
+
+<br>
+
+### 🛠️ SS-Tool
+
+A project around utilities for the Minecraft screensharing ecosystem.
+
+`Screensharing` `Forensics` `Utilities`
+
+---
+
+## 🧪 Right now
+
+I'm currently spending time on:
+
+* ☕ getting better with **Java**
+* 🧠 filling gaps in my **computer science fundamentals**
+* 🧬 learning more about **reverse engineering**
+* 🪟 understanding Windows a little deeper
+* ⚙️ building tools instead of leaving ideas in a `.txt`
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xShizue&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xShizue&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+
+</div>
+
+> GitHub language stats are based on public repositories and obviously don't represent everything I use.
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+**Discord — `xShizue`**
+
+<br>
+
+[![Discord](https://img.shields.io/badge/Discord-Join_my_server-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.io/ssguidefr)
+[![Links](https://img.shields.io/badge/Links-e--z.bio%2FxShizue-15171C?style=for-the-badge\&logo=linktree\&logoColor=white)](https://e-z.bio/xshizue)
+
+<br><br>
+
+<sub>always building something.</sub>
+
+</div>
